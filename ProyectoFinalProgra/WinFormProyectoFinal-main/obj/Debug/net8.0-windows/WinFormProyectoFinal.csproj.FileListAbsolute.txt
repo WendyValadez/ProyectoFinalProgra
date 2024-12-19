@@ -1,0 +1,197 @@
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.exe
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.deps.json
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.runtimeconfig.json
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.GenerateResource.cache
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfo.cs
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormP.8547138B.Up2Date
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.genruntimeconfig.cache
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\ref\WinFormProyectoFinal.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Admin.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.guest.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.login.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Properties.Resources.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Portada.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Producto.resources
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\troll\OneDrive\Escritorio\WinFormProyectoFinal-main\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.exe
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.deps.json
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.runtimeconfig.json
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Admin.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Ayuda.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.guest.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.login.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Portada.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Producto.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormP.8547138B.Up2Date
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documentos\Programacion 2\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\ref\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\herre\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.exe
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.deps.json
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.runtimeconfig.json
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Admin.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Ayuda.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.guest.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.login.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Portada.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Producto.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Properties.Resources.resources
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfo.cs
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormP.8547138B.Up2Date
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.genruntimeconfig.cache
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\ref\WinFormProyectoFinal.dll
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\logo\logo.png
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\oxford.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonA1.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonA3.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonC1.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonC3.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonN1.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonN3.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\saco2.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacocafe.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacocafeM.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacogris.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacogrisM.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacomod.jpg
+C:\Users\DELL\Downloads\WinFormProyectoFinal-main (1)\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\zapatosoxC.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.exe
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\logo\logo.png
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\oxford.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonA1.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonA3.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonC1.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonC3.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonN1.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\pantalonN3.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\saco2.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacocafe.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacocafeM.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacogris.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacogrisM.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\sacomod.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\productos\zapatosoxC.jpg
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.deps.json
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.runtimeconfig.json
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Admin.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Ayuda.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.guest.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.login.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Portada.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Producto.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.Properties.Resources.resources
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.AssemblyInfo.cs
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormP.8547138B.Up2Date
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.genruntimeconfig.cache
+C:\Users\DELL\Documents\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\ref\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\ProyectoFinalProgra\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\herre\Downloads\ProyectoFinalProgra\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\ProyectoFinalProgra\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\refint\WinFormProyectoFinal.dll
+C:\Users\herre\Downloads\ProyectoFinalProgra\ProyectoFinalProgra\WinFormProyectoFinal-main\obj\Debug\net8.0-windows\WinFormProyectoFinal.pdb

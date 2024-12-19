@@ -1,0 +1,37 @@
+                                                       --------Guía de Uso de Kingsman--------
+Bienvenido a Kingsman, la tienda en línea de moda y accesorios exclusivos. A continuación, te explicamos cómo funciona el sistema de 
+cuentas y las diferentes funcionalidades que puedes acceder según el tipo de cuenta con el que inicies sesión.
+
+Tipos de Cuentas:
+
+1. Administrador
+Si tienes una cuenta de Administrador, tendrás acceso completo al sistema. Algunas de las funciones disponibles para ti son:
+Agregar productos: Puedes añadir nuevos productos a la tienda, como trajes y accesorios. Estos productos serán visibles para todos 
+los usuarios registrados y los invitados.
+Eliminar productos: Puedes eliminar productos que ya no estén disponibles o que quieras quitar de la tienda.
+Acceso a la base de datos: Tienes acceso directo a la base de datos, lo que te permite gestionar el inventario de productos.
+
+2. Usuario Registrado
+Si eres un usuario registrado, debes seguir estos pasos para acceder y realizar compras en la tienda:
+Registro: Primero, debes registrarte en la tienda creando una cuenta con tu usuario y contraseña.
+Inicio de sesión: Una vez registrado, puedes iniciar sesión con tu usuario y contraseña.
+Acceso al catálogo: Después de iniciar sesión, podrás acceder al catálogo de productos donde encontrarás trajes y accesorios disponibles 
+para compra. Cada producto tiene un botón de Descripción, que te permite ver información detallada sobre el artículo, como materiales, tallas
+y otros detalles importantes. Comprar productos: Si decides comprar un producto, simplemente agrega el artículo al botón de compra.
+Eliminar compra: Si ya has comprado un artículo y deseas quitarlo de tu lista, podrás hacerlo en cualquier momento antes de completar la compra.
+Proceso de pago: Una vez hayas seleccionado tus productos, podrás proceder con el pago. Se generará un PDF con la cuenta que incluye los detalles
+de la compra, el precio total y la información de pago.
+
+3. Invitado
+Los invitados tienen acceso limitado a la tienda. Algunas de las funciones disponibles para los invitados son:
+Acceso al catálogo de productos: Aunque no necesitas una cuenta para navegar, podrás acceder al catálogo y ver los productos disponibles.
+Comprar productos: Los invitados pueden agregar productos a su lista de compras y proceder con la compra, pero no necesitan estar registrados 
+para ello.Sin acceso a datos personales: Los invitados no verán su ID ni nombre en la parte superior de la interfaz de la tienda, ya que no están 
+registrados en el sistema. Sin embargo, podrán realizar las compras y recibir los detalles necesarios al completar la transacción.
+
+¿Cómo hacer una compra?
+Acceder al catálogo: Si eres usuario o invitado, puedes ver todos los productos disponibles en el catálogo.
+Seleccionar un producto: Haz clic en el botón de Descripción de cada producto para obtener más información antes de agregarlo a la lista de compras.
+Lista de compras: Después de seleccionar tus productos, podrás agregarlos al carrito. Si ya has decidido qué comprar, puedes ver el resumen de tu 
+compra.Completar compra: Como usuario, puedes proceder al pago con los productos seleccionados y generar un PDF con los detalles de tu compra. Si 
+eres invitado, también puedes proceder con la compra sin necesidad de registrarte.
